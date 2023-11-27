@@ -1,6 +1,7 @@
 # non-contact-heart-rate-monitoring
 
-directory is shown as:
+## directory
+
 ![alt text](https://github.com/flowingflame1991/non-contact-heart-rate-monitoring/blob/main/non-contact%20heart%20rate%20monitoring.jpg)
 
 ## PipeLine:
